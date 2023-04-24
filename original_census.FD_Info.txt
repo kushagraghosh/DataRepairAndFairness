@@ -1,0 +1,18 @@
+Table : original_census
+Columns : RAC1P, SEX, REGION, PINCP, ST, COW, CIT, NATIVITY, MSP, SCHL, DIS, MIL
+
+Functional Dependencies: 
+{ST} -> {REGION}
+{CIT} -> {NATIVITY}
+
+Equivalences: 
+
+Keys: 
+{RAC1P, SEX, PINCP, ST, COW, CIT, MSP, SCHL, DIS, MIL}
+
+Time (s): 173.0332
+Row count: 32755
+Attribute count: 12
+Number of Equivalences: 0
+Number of FDs: 2
+Number of FDs checked: 3839
