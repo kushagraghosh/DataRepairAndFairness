@@ -1,3 +1,3 @@
-original_census|SELECT original_census1.* FROM original_census AS original_census1, original_census AS original_census2 WHERE original_census1.ST = original_census2.ST AND original_census1.REGION <> original_census2.REGION;
+synthetic_data_version_1|SELECT synthetic_data_version_11.* FROM synthetic_data_version_1 AS synthetic_data_version_11, synthetic_data_version_1 AS synthetic_data_version_12 WHERE synthetic_data_version_11.ST = synthetic_data_version_12.ST AND synthetic_data_version_11.REGION <> synthetic_data_version_12.REGION;
 
-original_census|SELECT original_census1.* FROM original_census AS original_census1, original_census AS original_census2 WHERE original_census1.CIT = original_census2.CIT AND original_census1.NATIVITY <> original_census2.NATIVITY;
+synthetic_data_version_1|SELECT synthetic_data_version_11.* FROM synthetic_data_version_1 AS synthetic_data_version_11, synthetic_data_version_1 AS synthetic_data_version_12 WHERE synthetic_data_version_11.CIT = synthetic_data_version_12.CIT AND synthetic_data_version_11.NATIVITY <> synthetic_data_version_12.NATIVITY;
