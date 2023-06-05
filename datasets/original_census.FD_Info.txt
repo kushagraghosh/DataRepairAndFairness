@@ -10,7 +10,7 @@ Equivalences:
 Keys: 
 {RAC1P, SEX, PINCP, ST, COW, CIT, MSP, SCHL, DIS, MIL}
 
-Time (s): 158.1423
+Time (s): 133.7711
 Row count: 32755
 Attribute count: 12
 Number of Equivalences: 0
